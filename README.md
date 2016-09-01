@@ -32,6 +32,21 @@ Papers:
 
 Suggested reading: Parts of the article is summarised in the lecture (https://www.youtube.com/watch?v=-yX1SYeDHbg)
 
-## #5: 01.09.16
+## #5: 27.04.16
+Papers: 
+- Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (http://arxiv.org/pdf/1506.02142v4.pdf)
+
+Suggested reading: Dropout as a Bayesian Approximation: Appendix (http://arxiv.org/pdf/1506.02157v4.pdf)
+
+## #6: 11.05.16
+Papers: 
+- Distilling the Knowledge in a Neural Network (http://arxiv.org/abs/1503.02531 and https://www.youtube.com/watch?v=EK61htlw8hY)
+- Do Deep Nets Really Need to be Deep? (https://papers.nips.cc/paper/5484-do-deep-nets-really-need-to-be-deep.pdf)
+
+Suggested readings: 
+- Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (http://arxiv.org/abs/1510.00149)
+- SqueezeNet: AlexNet-level Accuracy with 50x Fewer Parameters and <0.5MB Model Size (http://arxiv.org/pdf/1602.07360v3.pdf)
+
+## #7: 01.09.16
 Papers: 
 - Deep Kalman Filters (https://arxiv.org/pdf/1511.05121v2.pdf) 
