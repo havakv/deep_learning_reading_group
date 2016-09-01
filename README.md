@@ -2,6 +2,8 @@
 
 A repository to keep track of papers in the reading group at University of Oslo.
 
+Comments to the papers can be found under Issues. 
+
 # Sessions
 
 ## #1: 12.02.16  
