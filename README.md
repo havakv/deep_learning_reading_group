@@ -1,6 +1,6 @@
-# Deep learning reading group at University of Oslo
+# Deep learning reading group
 
-A repository to keep track of papers in the reading group.
+A repository to keep track of papers in the reading group at University of Oslo.
 
 # Sessions
 
