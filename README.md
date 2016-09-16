@@ -11,6 +11,10 @@ Papers:
 - Variational Inference: A Review for Statisticians (https://arxiv.org/pdf/1601.00670v3.pdf)
 - Tutorial on Variational Autoencoders (https://arxiv.org/pdf/1606.05908v2.pdf)
 
+Other things discussed during the group:
+- Morphing faces : http://vdumoulin.github.io/morphing_faces/
+- Wavenet : https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+
 ## #7: 01.09.16
 Papers: 
 - Deep Kalman Filters (https://arxiv.org/pdf/1511.05121v2.pdf) 
