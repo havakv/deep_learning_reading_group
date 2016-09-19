@@ -6,6 +6,11 @@ Comments to the papers can be found under Issues.
 
 # Sessions
 
+## #9: 29.09.16
+Papers:
+- Generative Adversarial Nets (https://arxiv.org/pdf/1406.2661v1.pdf)
+- Adversarial Autoencoders (http://arxiv.org/pdf/1511.05644v2.pdf)
+
 ## #8: 15.09.16
 Papers:
 - Variational Inference: A Review for Statisticians (https://arxiv.org/pdf/1601.00670v3.pdf)
