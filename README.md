@@ -6,6 +6,13 @@ Comments to the papers can be found under Issues.
 
 # Sessions
 
+## #10: 13.10.16
+Papers:
+- Neural Turing Machines (https://arxiv.org/pdf/1410.5401v2.pdf)
+
+Additional:
+- Alex Graves talks about the Neural Turing Machines https://www.youtube.com/watch?v=_H0i0IhEO2g
+
 ## #9: 29.09.16
 Papers:
 - Generative Adversarial Nets (https://arxiv.org/pdf/1406.2661v1.pdf)
