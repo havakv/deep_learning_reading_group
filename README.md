@@ -8,7 +8,7 @@ Comments to the papers can be found under Issues.
 
 ## #11: 24.11.16
 Papers:
-- End-To-End Memory Networkds: (https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
+- End-To-End Memory Networks: (https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
 - Hybrid computing using a neural network with dynamic external memory: (http://www.nature.com/nature/journal/v538/n7626/pdf/nature20101.pdf)
 
 ## #10: 13.10.16
