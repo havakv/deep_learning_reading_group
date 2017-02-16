@@ -6,6 +6,14 @@ Comments to the papers can be found under Issues.
 
 # Sessions
 
+## #12 23.02.17
+Papers: 
+- Human-level control through deep reinforcement learning: https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf
+
+Additional:
+- Blog by Karpathy http://karpathy.github.io/2016/05/31/rl/, though he use policy gradient instead of Q learning.
+- Blog by DeepMind https://deepmind.com/blog/deep-reinforcement-learning/. Some videos from the paper, and some improvement and achievements.
+
 ## #11: 24.11.16
 Papers:
 - End-To-End Memory Networks: (https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
