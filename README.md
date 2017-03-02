@@ -6,6 +6,10 @@ Comments to the papers can be found under Issues.
 
 # Sessions
 
+## #13 09.03.17
+Papers:
+- Asynchronous Methods for Deep Reinforcement Learning: https://arxiv.org/pdf/1602.01783.pdf
+
 ## #12 23.02.17
 Papers: 
 - Human-level control through deep reinforcement learning: https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf
